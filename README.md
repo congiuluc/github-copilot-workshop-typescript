@@ -37,7 +37,7 @@ We'll build a **Task Management System** with:
 | 02 | 💬 **Copilot Chat** | Interactive AI assistant | Design architecture and get code reviews | [📖 Phase 02](phases/phase02-copilot-chat.md) |
 | 03 | ⚡ **Inline Chat** | Context-aware editing | Enhance models with validation | [📖 Phase 03](phases/phase03-inline-chat.md) |
 | 04 | ⚙️ **Slash Commands** | Quick actions and templates | Generate service layer and interfaces | [📖 Phase 04](phases/phase04-slash-commands.md) |
-| 05 | 🎨 **Code Brushes** | Selection-based improvements | Refactor and optimize existing code | [📖 Phase 05](phases/phase05-code-brushes.md) |
+| 05 | 🔍 **Code Review** | AI-powered code analysis | Review and improve code quality | [📖 Phase 05](phases/phase05-code-review.md) |
 | 06 | 💡 **Code Actions** | Smart fixes and suggestions | Implement error handling and edge cases | [📖 Phase 06](phases/phase06-code-actions.md) |
 | 07 | 🧠 **Editor Completions** | Advanced multi-line suggestions | Build complete features and APIs | [📖 Phase 07](phases/phase07-editor-completions.md) |
 | 08 | 📝 **AI Commit Messages** | Automated Git commit descriptions | Version control with meaningful history | [📖 Phase 08](phases/phase08-ai-commit-messages.md) |
